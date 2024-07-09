@@ -13,6 +13,6 @@ public class LibraryTest {
 
     @Test
     public void isVoidTest() {
-        Assert.assertTrue(library.isVoid);
+        Assert.assertTrue(library.isVoid());
     }
 }
